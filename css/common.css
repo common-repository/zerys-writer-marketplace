@@ -1,0 +1,22 @@
+*{padding:0;margin:0}
+body,.fromStyle input[type='text'],.fromStyle input[type='password']{font:normal 12px Arial, Helvetica, sans-serif;color:#333}
+.clr{clear:both}
+.fleft{float:left}
+.fright{float:right}
+.txtCenter{text-align:center}
+.txtRed{color:#ff0000}
+p{padding-bottom:10px;line-height:18px}
+.paddingB10{padding-bottom:10px}
+.paddingTB15 {
+    height: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    position: relative;
+    width: 380px;
+}
+.paddingT3{padding-top:3px}
+.paddingTB15  label{
+    left: 127px;
+    position: absolute;
+    top: 35px;
+}

@@ -1,0 +1,33 @@
+.fromStyle input[type='submit'],.fromStyle input[type='button']{border:none;cursor:pointer}
+.fromStyle a{color:#6381d9}
+.fromStyle input[type='text'],.fromStyle input[type='password'],.fromStyle textarea{border:1px solid #ccc;padding:3px 4px 4px;min-width:200px;background:#fff url(../images/input_bg.png) repeat-x top;}
+.fromStyle h2{font-size:14px !important;padding-bottom:25px}
+.fromTwoColStruct dl dt,.fromTwoColStruct2 dl dt,.fromTwoColStruct dl dd,.fromTwoColStruct2 dl dd{float:left;padding-bottom:6px}
+.fromTwoColStruct dl dt,.fromTwoColStruct2 dl dt{clear:both;padding-right:20px;padding-top:5px}
+.fromTwoColStruct dl dt{width:150px}
+.fromTwoColStruct2 dl dt{width:40px}
+.fromTwoColStruct dl dd{width:210px}
+.btn90,.btn70{font:bold 14px Arial, Helvetica, sans-serif;color:#fff;}
+.btn90{background:url(../images/blue_btn90x32.png) no-repeat center top;width:90px;height:32px}
+.btn70{background:url(../images/blue_btn70x28.png) no-repeat center top;font:bold 14px Arial, Helvetica, sans-serif;color:#fff;width:70px;height:28px}
+.termsCondition{width:370px;height:210px;overflow-y:scroll;border:1px solid #ccc;text-align:left;padding:4px}
+.termsCondition ol li{margin-left:40px}
+
+
+
+
+
+
+
+
+
+
+
+/*========= Temp =========*/
+/*body{background:#444}*/
+.fromStyle{background:#fff;margin:20px;width:850px;margin:10px auto 0;padding:20px;}
+.fromTwoColStruct2 .error {display:block}
+.error
+{
+color:#FF0000;
+}
